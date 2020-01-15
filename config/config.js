@@ -5,7 +5,7 @@ exports.configure = function(env) {
 let configs = {
   "development": {
     "username": "root",
-    "password": `${process.env.DB_PASSWORD}`,
+    "password": null,
     "database": "medBuddy",
     "host": "127.0.0.1",
     "dialect": "mysql"
@@ -19,12 +19,13 @@ let configs = {
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
-    "dialect": "mysql",
-    "operatorsAliases": false,
     "use_env_variable": "JAWSDB_URL"
   }
 }
+
+// "username": "root",
+// "password": null,
+// "database": "database_production",
+// "host": "127.0.0.1",
+// "dialect": "mysql",
+// "operatorsAliases": false,

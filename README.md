@@ -27,9 +27,8 @@ http://fierce-beach-68563.herokuapp.com/
 * Express and Node.JS
 
 ##### Authors: 
-* Emi
-* Marisa
-* Jaime
-* Anthony(me)
-* [contributors] (https://github.com/ANTHONYCHANSOON/MedBuddy-project/graphs/contributors)
+* [Emi] (https://github.com/ETRezaei)
+* [Marisa] (https://github.com/marisamark)
+* [Jaime] (https://github.com/jamieluong03)
+* [Anthony-me)] (https://github.com/ANTHONYCHANSOON)
 

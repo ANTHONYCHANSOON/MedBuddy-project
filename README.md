@@ -1,31 +1,34 @@
 # MedBuddy
 This app helps the user to add, edit, delete and update their medication.
+<img src="https://github.com/ANTHONYCHANSOON/MedBuddy-project/blob/master/githubimage/112.JPG" width=800>
 
 ## NPM / Dependencies
 ```
-axios
-bcryptjs
-bootstrap
 concurrently
-dotenv
 express
 express-session
 mysql2
-nodemon
 passport
 passport-local
 react
 react-bootstrap
 react-router-dom
 react-router-redux
-react-scripts
 sequelize
 ```
-<img src="https://github.com/ANTHONYCHANSOON/MedBuddy-project/blob/master/githubimage/112.JPG" width=800>
 
-We used the following tools : ReactJS, MySQL, Sequelize, Express and Node.JS.
+### Deployed Link
+http://fierce-beach-68563.herokuapp.com/
 
-Deployed Link : http://fierce-beach-68563.herokuapp.com/
+Built With
+* ReactJS - Front End Design
+* MySQL/ Sequelize - Database/ Server
+* Heroku - Deployment
+* Express and Node.JS
 
-Team Members : 
-Emi, Marisa, Jaime, Anthony and Hussein
+#### Authors: 
+* Emi
+* Marisa
+* Jaime
+* Anthony(me)
+[contributors] (https://github.com/ANTHONYCHANSOON/MedBuddy-project/graphs/contributors)

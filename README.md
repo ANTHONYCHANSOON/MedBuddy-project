@@ -20,13 +20,13 @@ sequelize
 ### Deployed Link
 http://fierce-beach-68563.herokuapp.com/
 
-#### Built With
+### Built With
 * ReactJS - Front-End Design
 * MySQL/ Sequelize - Database
 * Heroku - Deployment
 * Express and Node.JS
 
-##### Authors: 
+### Authors: 
 * [Emi] (https://github.com/ETRezaei)
 * [Marisa] (https://github.com/marisamark)
 * [Jaime] (https://github.com/jamieluong03)

@@ -20,15 +20,16 @@ sequelize
 ### Deployed Link
 http://fierce-beach-68563.herokuapp.com/
 
-Built With
+#### Built With
 * ReactJS - Front End Design
 * MySQL/ Sequelize - Database/ Server
 * Heroku - Deployment
 * Express and Node.JS
 
-#### Authors: 
+##### Authors: 
 * Emi
 * Marisa
 * Jaime
 * Anthony(me)
-[contributors] (https://github.com/ANTHONYCHANSOON/MedBuddy-project/graphs/contributors)
+* [contributors] (https://github.com/ANTHONYCHANSOON/MedBuddy-project/graphs/contributors)
+

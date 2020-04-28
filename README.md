@@ -21,8 +21,8 @@ sequelize
 http://fierce-beach-68563.herokuapp.com/
 
 #### Built With
-* ReactJS - Front End Design
-* MySQL/ Sequelize - Database/ Server
+* ReactJS - Front-End Design
+* MySQL/ Sequelize - Database
 * Heroku - Deployment
 * Express and Node.JS
 
